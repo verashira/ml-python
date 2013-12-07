@@ -12,3 +12,7 @@ Collective solutions for certain situations.
 * Matplotlib tutorial
 * First Look example
     * Prediction for web traffic -- `/linear_model/web_traffic/`
+	
+#### Chapter 2. Learning How to Classify with Real-world Examples  
+
+* Linear Decision Boundary -- `/classification/iris_linear_bound/`
