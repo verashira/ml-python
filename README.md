@@ -16,3 +16,4 @@ Collective solutions for certain situations.
 #### Chapter 2. Learning How to Classify with Real-world Examples  
 
 * Linear Decision Boundary -- `/classification/iris_linear_bound/`
+* k Nearest Neighbor -- `/classification/seeds_knn/`
